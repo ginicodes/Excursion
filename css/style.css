@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    
+    font-weight: normal;
+    text-align: center;
+}
+
+
+header h1 {
+    font-size: 50px;
+    color: white;
+}
+
+header p {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 300;
+    color: white;
+}
