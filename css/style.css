@@ -27,3 +27,8 @@ h2 {
     font-weight: 300;
     color: white;
 }
+
+.recommendation {
+    font-size: 21px;
+    color: gray;
+}
