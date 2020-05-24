@@ -32,3 +32,9 @@ h2 {
     font-size: 21px;
     color: gray;
 }
+
+.download {
+    font-size: 16px;
+    color: aquamarine;
+    text-decoration: underline;
+}
