@@ -38,3 +38,8 @@ h2 {
     color: aquamarine;
     text-decoration: underline;
 }
+
+.footer {
+    text-align: right;
+    color: gray;
+}
